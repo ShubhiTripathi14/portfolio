@@ -25,7 +25,7 @@ export const portfolioData = {
     phone: "+91-8009122114",
     linkedin: "https://linkedin.com/in/shubhitripathi1410",
     github: "https://github.com/ShubhiTripathi14",
-    websiteUrl: "",
+    websiteUrl: "https://shubhitripathi14.github.io/portfolio/",
     resumePath: "./Shubhi_Tripathi_Resume.pdf",
     
     // Quick recruiter facts (6-second scan)
